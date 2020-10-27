@@ -1,0 +1,42 @@
+.navbar{
+    font-family: cursive;
+    color:white;
+ font-style: italic;
+}
+.btn1{
+    background-color: purple;
+    color: white;
+font-weight: bolder;
+   margin-top: 18%;
+   margin-left: 37%;
+   border-radius: 8em;
+width: 25%;
+height: 40px;
+    position: relative;
+
+}
+.btn2{
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    margin-top: 2%;
+    margin-left: 37%;
+    border-radius: 8em;
+ width: 25%;
+ height: 40px;
+     position: relative;
+ 
+ }
+ .motuchotu{
+     background-image: url('1.jpg');
+     /* filter: blur(8px);
+     -webkit-filter: blur(8px); */
+   backdrop-filter:blur(2px);
+     /* Full height */
+     height: 100vh;
+   
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
